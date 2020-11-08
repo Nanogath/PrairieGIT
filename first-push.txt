@@ -1,1 +1,7 @@
-Decision finale à merge.
+Modification.
+
+Modification sur la branche Dev.
+
+Modification pour git diff.
+
+Ajout pour merge.
